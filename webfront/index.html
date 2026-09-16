@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Nibluma is an offline notebook app in development for iPad and Android tablets, with reading and editing on phones.">
+  <meta name="theme-color" content="#f8fafb">
+  <meta name="color-scheme" content="light dark">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Nibluma · Your notebooks. Your storage.">
+  <meta property="og:description" content="Nibluma is an offline notebook app in development for iPad and Android tablets, with reading and editing on phones.">
+  <meta property="og:image" content="assets/feature-graphic.png">
+  <title>Nibluma · Your notebooks. Your storage.</title>
+  <link rel="icon" href="assets/nibluma-mark.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main" data-i18n="skip">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Nibluma">
+      <img class="brand-mark" src="assets/nibluma-mark.svg" alt="" width="48" height="48">
+      <span>Nibluma</span>
+    </a>
+    <label class="language"><span data-i18n="language">Language</span>
+      <select id="language"><option value="en">English</option><option value="de">Deutsch</option></select>
+    </label>
+  </header>
+  <main id="main">
+    <section class="intro" aria-labelledby="headline">
+      <div class="intro-copy">
+        <p class="eyebrow" data-i18n="status">In development</p>
+        <h1 id="headline" data-i18n="headline">Your notebooks. Your storage.</h1>
+        <p class="lead" data-i18n="intro">A notebook app for handwritten ideas and the paper you want to keep. Designed for iPad and Android tablets, with your phone close at hand.</p>
+      </div>
+      <div class="feature-graphic" aria-hidden="true">
+        <img src="assets/feature-graphic.svg" alt="" width="1024" height="500">
+      </div>
+    </section>
+    <section class="scope" aria-labelledby="scope-heading">
+      <p class="eyebrow" data-i18n="scopeEyebrow">Made for real notebooks</p>
+      <h2 id="scope-heading" data-i18n="scope">What we are building</h2>
+      <div class="features">
+        <article><span aria-hidden="true">01</span><h3 data-i18n="writeTitle">Space to write</h3><p data-i18n="writeBody">Organize books, write with a pen, zoom into details and undo a mistake. Read and edit on your phone, too.</p></article>
+        <article><span aria-hidden="true">02</span><h3 data-i18n="scanTitle">Paper belongs here, too</h3><p data-i18n="scanBody">Scan a document or bring in a photo, then add notes directly on the page.</p></article>
+        <article><span aria-hidden="true">03</span><h3 data-i18n="storageTitle">Keep your own copy</h3><p data-i18n="storageBody">Work offline. Optional sync is planned through iCloud on Apple, Google Drive on Android and Nextcloud on both.</p></article>
+      </div>
+    </section>
+    <aside class="notice">
+      <img src="assets/nibluma-mark.svg" alt="" width="52" height="52">
+      <p data-i18n="note">Nibluma is not available for download yet. This page describes the planned app.</p>
+    </aside>
+    <p id="language-error" role="status" hidden></p>
+    <noscript data-i18n="scriptNotice">JavaScript enables the language switch. The English page is available without it.</noscript>
+  </main>
+  <footer><p data-i18n="footer">Nibluma · A notebook, wherever you need it.</p></footer>
+</body>
+</html>

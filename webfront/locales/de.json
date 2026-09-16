@@ -1,0 +1,21 @@
+{
+  "title": "Nibluma · Deine Notizbücher. Dein Speicher.",
+  "description": "Nibluma ist eine Offline-Notizbuch-App in Entwicklung für iPad und Android-Tablets, mit Lesen und Bearbeiten auf dem Smartphone.",
+  "skip": "Zum Inhalt",
+  "language": "Sprache",
+  "status": "In Entwicklung",
+  "scopeEyebrow": "Für echte Notizbücher gemacht",
+  "headline": "Deine Notizbücher. Dein Speicher.",
+  "intro": "Eine Notizbuch-App für handschriftliche Ideen und Papier, das du behalten möchtest. Für iPad und Android-Tablets entwickelt, auch auf deinem Smartphone dabei.",
+  "scope": "Daran arbeiten wir",
+  "writeTitle": "Platz zum Schreiben",
+  "writeBody": "Notizbücher ordnen, mit dem Stift schreiben, Details vergrößern und Fehler rückgängig machen. Auch auf dem Smartphone lesen und bearbeiten.",
+  "scanTitle": "Papier gehört dazu",
+  "scanBody": "Dokumente scannen oder Fotos hinzufügen und direkt auf der Seite Notizen machen.",
+  "storageTitle": "Deine eigene Kopie",
+  "storageBody": "Offline arbeiten. Optional ist Synchronisierung über iCloud auf Apple-Geräten, Google Drive auf Android und Nextcloud auf beiden Plattformen geplant.",
+  "note": "Nibluma ist noch nicht zum Download verfügbar. Diese Seite beschreibt die geplante App.",
+  "footer": "Nibluma · Ein Notizbuch, wo du es brauchst.",
+  "scriptNotice": "JavaScript aktiviert die Sprachauswahl. Die englische Seite ist auch ohne JavaScript verfügbar.",
+  "languageError": "Die Sprache konnte nicht geladen werden. Bitte versuche es erneut."
+}

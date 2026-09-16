@@ -1,0 +1,21 @@
+{
+  "title": "Nibluma · Your notebooks. Your storage.",
+  "description": "Nibluma is an offline notebook app in development for iPad and Android tablets, with reading and editing on phones.",
+  "skip": "Skip to content",
+  "language": "Language",
+  "status": "In development",
+  "scopeEyebrow": "Made for real notebooks",
+  "headline": "Your notebooks. Your storage.",
+  "intro": "A notebook app for handwritten ideas and the paper you want to keep. Designed for iPad and Android tablets, with your phone close at hand.",
+  "scope": "What we are building",
+  "writeTitle": "Space to write",
+  "writeBody": "Organize books, write with a pen, zoom into details and undo a mistake. Read and edit on your phone, too.",
+  "scanTitle": "Paper belongs here, too",
+  "scanBody": "Scan a document or bring in a photo, then add notes directly on the page.",
+  "storageTitle": "Keep your own copy",
+  "storageBody": "Work offline. Optional sync is planned through iCloud on Apple, Google Drive on Android and Nextcloud on both.",
+  "note": "Nibluma is not available for download yet. This page describes the planned app.",
+  "footer": "Nibluma · A notebook, wherever you need it.",
+  "scriptNotice": "JavaScript enables the language switch. The English page is available without it.",
+  "languageError": "The language could not be loaded. Please try again."
+}
